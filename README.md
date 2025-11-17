@@ -1,5 +1,4 @@
 # PeerPick
-# Recommendation App
 
 A social recommendation platform where users can share, review, and discover media (movies, books, music, etc.) within specific groups of people, such as friends or family.
 
